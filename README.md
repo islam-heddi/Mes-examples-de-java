@@ -8,5 +8,8 @@ the language of programming used is JAVA
 
 i coded these back in my university back in the univ year 2023/2024
 
+there is only 9 examples of java
+
+and the university we did alot of examples
 
 AND thanks 
